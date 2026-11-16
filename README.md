@@ -7,7 +7,7 @@
 ## Ссылки на документацию
 
 * [Анализ целевой аудитории (ЦА)](./docs/audience-analysis.md)
-* [Карта сайта и макет в Figma] https://www.figma.com/design/t3DUiKid5Xk3miOhgKVYzP/dashboard-sitemap?node-id=0-1&t=25M7rAPdVH1nteb3-1
+* [Карта сайта и макет в Figma](https://www.figma.com/design/t3DUiKid5Xk3miOhgKVYzP/dashboard-sitemap?node-id=0-1&t=25M7rAPdVH1nteb3-1)
 
 ## Основные функции
 
