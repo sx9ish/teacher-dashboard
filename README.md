@@ -7,7 +7,8 @@
 ## Ссылки на документацию
 
 * [Анализ целевой аудитории (ЦА)](./docs/audience-analysis.md)
-* [Карта сайта и макет в Figma](https://www.figma.com/design/t3DUiKid5Xk3miOhgKVYzP/dashboard-sitemap?node-id=0-1&t=25M7rAPdVH1nteb3-1)
+* [Карта сайта](https://www.figma.com/design/t3DUiKid5Xk3miOhgKVYzP/dashboard-sitemap?node-id=0-1&t=25M7rAPdVH1nteb3-1)
+* [Макет в Figma](https://github.com/sx9ish/teacher-dashboard/blob/main/docs/layout-documentation.md)
 
 ## Основные функции
 
