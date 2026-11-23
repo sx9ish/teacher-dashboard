@@ -8,7 +8,8 @@
 
 * [Анализ целевой аудитории (ЦА)](./docs/audience-analysis.md)
 * [Карта сайта](https://www.figma.com/design/t3DUiKid5Xk3miOhgKVYzP/dashboard-sitemap?node-id=0-1&t=25M7rAPdVH1nteb3-1)
-* [Макет в Figma](https://github.com/sx9ish/teacher-dashboard/blob/main/docs/layout-documentation.md)
+* [Макет в Figma (Документация)](https://github.com/sx9ish/teacher-dashboard/blob/main/docs/layout-documentation.md)
+* [Ссылка на макет в Figma](https://www.figma.com/design/7GncI4AHXUuCnfUbOSSZHu/Untitled?node-id=0-1&t=l4enSqEncEshXRlG-1)
 * [Окна валидации](https://github.com/sx9ish/teacher-dashboard/blob/dev/docs/validation-modal.md)
 
 ## Основные функции
